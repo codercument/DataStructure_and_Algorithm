@@ -1,0 +1,3 @@
+﻿  BinarySearch.cpp
+D:\MYPROJECTS\CODES\WORKSPACES\CC++\BinarySearch\BinarySearch\BinarySearch.cpp(19,10): warning C4067:  ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  BinarySearch.vcxproj -> D:\MYPROJECTS\CODES\WORKSPACES\CC++\BinarySearch\Debug\BinarySearch.exe
